@@ -1,0 +1,160 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BestProgramEver.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(14,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(145,40): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(152,42): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(173,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(204,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(205,48): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(206,11): warning C4305: *=: усечение из "double" в "float"
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(212,8): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(215,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(219,27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(219,40): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(239,37): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(247,38): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(260,37): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(268,38): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(271,28): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(376,27): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(360,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(390,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(454,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(30,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(89): message : выполняется компиляция ссылки на экземпляр шаблон функции "int getDecimal<int>(std::string,int,char,T *)"
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(89): message :         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(89): message :         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(89): message :             T=int
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(89): message :         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:             T=int
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:             T=int
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(38,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:             T=int
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:             T=int
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(47,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:             T=int
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:             T=float
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:             T=float
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:             T=float
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:             T=float
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:             T=float
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:             T=short
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:             T=short
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:             T=short
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:             T=short
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:             T=short
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:             T=char
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:             T=char
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:             T=char
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:             T=char
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:             T=char
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:             T=long
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(31,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:             T=long
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(32,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:             T=long
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(41,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:             T=long
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(42,1): warning C4244:         ]
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         with
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         [
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:             T=long
+C:\Users\Cawa\source\repos\BestProgramEver\BestProgramEver\Source.cpp(48,1): warning C4244:         ]
+  BestProgramEver.vcxproj -> C:\Users\Cawa\source\repos\BestProgramEver\Debug\ComputerOrganizationCoursework.exe
