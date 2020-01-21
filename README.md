@@ -12,3 +12,7 @@ Also, this coursework shows the ability of the student to work with:
  * text formating
 
 ### Nontrivial code lines are to be commented.
+- - - -
+## WARNING 
+ Graphic can be shown incorrectly if display scale or resolution is incorrect.
+ Good test was on 1920x1080 resolution and 125% scale.
